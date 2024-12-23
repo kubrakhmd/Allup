@@ -1,0 +1,1456 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Migrations\\20241223212132_createBasketTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Allup\\Migrations\\20241223212132_createBasketTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|c:\\users\\kubra\\onedrive\\desktop\\allup\\allupmvc\\allup\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|solutionrelative:allup\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|c:\\users\\kubra\\onedrive\\desktop\\allup\\allupmvc\\allup\\areas\\admin\\viewmodels\\product\\createproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|solutionrelative:allup\\areas\\admin\\viewmodels\\product\\createproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|c:\\users\\kubra\\onedrive\\desktop\\allup\\allupmvc\\allup\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|solutionrelative:allup\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|c:\\users\\kubra\\onedrive\\desktop\\allup\\allupmvc\\allup\\utilities\\extensions\\filevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|solutionrelative:allup\\utilities\\extensions\\filevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|c:\\users\\kubra\\onedrive\\desktop\\allup\\allupmvc\\allup\\utilities\\enums\\filesize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|solutionrelative:allup\\utilities\\enums\\filesize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|c:\\users\\kubra\\onedrive\\desktop\\allup\\allupmvc\\allup\\areas\\admin\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|solutionrelative:allup\\areas\\admin\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|c:\\users\\kubra\\onedrive\\desktop\\allup\\allupmvc\\allup\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|solutionrelative:allup\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|c:\\users\\kubra\\onedrive\\desktop\\allup\\allupmvc\\allup\\areas\\admin\\controllers\\tagcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|solutionrelative:allup\\areas\\admin\\controllers\\tagcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|c:\\users\\kubra\\onedrive\\desktop\\allup\\allupmvc\\allup\\areas\\admin\\views\\brand\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|solutionrelative:allup\\areas\\admin\\views\\brand\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|c:\\users\\kubra\\onedrive\\desktop\\allup\\allupmvc\\allup\\areas\\admin\\views\\brand\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|solutionrelative:allup\\areas\\admin\\views\\brand\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|c:\\users\\kubra\\onedrive\\desktop\\allup\\allupmvc\\allup\\areas\\admin\\views\\brand\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|solutionrelative:allup\\areas\\admin\\views\\brand\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|c:\\users\\kubra\\onedrive\\desktop\\allup\\allupmvc\\allup\\areas\\admin\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|solutionrelative:allup\\areas\\admin\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|c:\\users\\kubra\\onedrive\\desktop\\allup\\allupmvc\\allup\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|solutionrelative:allup\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|c:\\users\\kubra\\onedrive\\desktop\\allup\\allupmvc\\allup\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|solutionrelative:allup\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|c:\\users\\kubra\\onedrive\\desktop\\allup\\allupmvc\\allup\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|solutionrelative:allup\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|c:\\users\\kubra\\onedrive\\desktop\\allup\\allupmvc\\allup\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|solutionrelative:allup\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|c:\\users\\kubra\\onedrive\\desktop\\allup\\allupmvc\\allup\\viewmodels\\shopvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|solutionrelative:allup\\viewmodels\\shopvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|c:\\users\\kubra\\onedrive\\desktop\\allup\\allupmvc\\allup\\views\\basket\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|solutionrelative:allup\\views\\basket\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|c:\\users\\kubra\\onedrive\\desktop\\allup\\allupmvc\\allup\\views\\basket\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|solutionrelative:allup\\views\\basket\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|c:\\users\\kubra\\onedrive\\desktop\\allup\\allupmvc\\allup\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|solutionrelative:allup\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|c:\\users\\kubra\\onedrive\\desktop\\allup\\allupmvc\\allup\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|solutionrelative:allup\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|c:\\users\\kubra\\onedrive\\desktop\\allup\\allupmvc\\allup\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|solutionrelative:allup\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|c:\\users\\kubra\\onedrive\\desktop\\allup\\allupmvc\\allup\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|solutionrelative:allup\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|c:\\users\\kubra\\onedrive\\desktop\\allup\\allupmvc\\allup\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|solutionrelative:allup\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|c:\\users\\kubra\\onedrive\\desktop\\allup\\allupmvc\\allup\\models\\basketitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|solutionrelative:allup\\models\\basketitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|c:\\users\\kubra\\onedrive\\desktop\\allup\\allupmvc\\allup\\viewmodels\\ordervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|solutionrelative:allup\\viewmodels\\ordervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|c:\\users\\kubra\\onedrive\\desktop\\allup\\allupmvc\\allup\\viewmodels\\basketinordersvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|solutionrelative:allup\\viewmodels\\basketinordersvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|c:\\users\\kubra\\onedrive\\desktop\\allup\\allupmvc\\allup\\viewmodels\\basketcookieitemvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|solutionrelative:allup\\viewmodels\\basketcookieitemvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|c:\\users\\kubra\\onedrive\\desktop\\allup\\allupmvc\\allup\\viewmodels\\basketitemvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|solutionrelative:allup\\viewmodels\\basketitemvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|c:\\users\\kubra\\onedrive\\desktop\\allup\\allupmvc\\allup\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|solutionrelative:allup\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|c:\\users\\kubra\\onedrive\\desktop\\allup\\allupmvc\\allup\\areas\\admin\\viewmodels\\product\\getproductadminvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|solutionrelative:allup\\areas\\admin\\viewmodels\\product\\getproductadminvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|c:\\users\\kubra\\onedrive\\desktop\\allup\\allupmvc\\allup\\areas\\admin\\viewmodels\\product\\updateproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|solutionrelative:allup\\areas\\admin\\viewmodels\\product\\updateproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|c:\\users\\kubra\\onedrive\\desktop\\allup\\allupmvc\\allup\\models\\productcolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|solutionrelative:allup\\models\\productcolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|c:\\users\\kubra\\onedrive\\desktop\\allup\\allupmvc\\allup\\models\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|solutionrelative:allup\\models\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|c:\\users\\kubra\\onedrive\\desktop\\allup\\allupmvc\\allup\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|solutionrelative:allup\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|c:\\users\\kubra\\onedrive\\desktop\\allup\\allupmvc\\allup\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|solutionrelative:allup\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|c:\\users\\kubra\\onedrive\\desktop\\allup\\allupmvc\\allup\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|solutionrelative:allup\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|c:\\users\\kubra\\onedrive\\desktop\\allup\\allupmvc\\allup\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|solutionrelative:allup\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|c:\\users\\kubra\\onedrive\\desktop\\allup\\allupmvc\\allup\\viewmodels\\account\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|solutionrelative:allup\\viewmodels\\account\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|c:\\users\\kubra\\onedrive\\desktop\\allup\\allupmvc\\allup\\viewmodels\\account\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|solutionrelative:allup\\viewmodels\\account\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|c:\\users\\kubra\\onedrive\\desktop\\allup\\allupmvc\\allup\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|solutionrelative:allup\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|c:\\users\\kubra\\onedrive\\desktop\\allup\\allupmvc\\allup\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|solutionrelative:allup\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|c:\\users\\kubra\\onedrive\\desktop\\allup\\allupmvc\\allup\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|solutionrelative:allup\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|c:\\users\\kubra\\onedrive\\desktop\\allup\\allupmvc\\allup\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|solutionrelative:allup\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|c:\\users\\kubra\\onedrive\\desktop\\allup\\allupmvc\\allup\\areas\\admin\\views\\tag\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|solutionrelative:allup\\areas\\admin\\views\\tag\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|c:\\users\\kubra\\onedrive\\desktop\\allup\\allupmvc\\allup\\areas\\admin\\views\\category\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|solutionrelative:allup\\areas\\admin\\views\\category\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|c:\\users\\kubra\\onedrive\\desktop\\allup\\allupmvc\\allup\\areas\\admin\\views\\tag\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|solutionrelative:allup\\areas\\admin\\views\\tag\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|c:\\users\\kubra\\onedrive\\desktop\\allup\\allupmvc\\allup\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|solutionrelative:allup\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|c:\\users\\kubra\\onedrive\\desktop\\allup\\allupmvc\\allup\\areas\\admin\\views\\tag\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|solutionrelative:allup\\areas\\admin\\views\\tag\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|c:\\users\\kubra\\onedrive\\desktop\\allup\\allupmvc\\allup\\areas\\admin\\viewmodels\\category\\createcategoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|solutionrelative:allup\\areas\\admin\\viewmodels\\category\\createcategoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|c:\\users\\kubra\\onedrive\\desktop\\allup\\allupmvc\\allup\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|solutionrelative:allup\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|c:\\users\\kubra\\onedrive\\desktop\\allup\\allupmvc\\allup\\areas\\admin\\viewmodels\\tag\\createtagvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|solutionrelative:allup\\areas\\admin\\viewmodels\\tag\\createtagvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|c:\\users\\kubra\\onedrive\\desktop\\allup\\allupmvc\\allup\\areas\\admin\\viewmodels\\tag\\listtagvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|solutionrelative:allup\\areas\\admin\\viewmodels\\tag\\listtagvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|c:\\users\\kubra\\onedrive\\desktop\\allup\\allupmvc\\allup\\migrations\\20241218111830_createtagsandbrandstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|solutionrelative:allup\\migrations\\20241218111830_createtagsandbrandstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|c:\\users\\kubra\\onedrive\\desktop\\allup\\allupmvc\\allup\\views\\shop\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|solutionrelative:allup\\views\\shop\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|c:\\users\\kubra\\onedrive\\desktop\\allup\\allupmvc\\allup\\viewmodels\\detailvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|solutionrelative:allup\\viewmodels\\detailvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|c:\\users\\kubra\\onedrive\\desktop\\allup\\allupmvc\\allup\\models\\producttag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|solutionrelative:allup\\models\\producttag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|c:\\users\\kubra\\onedrive\\desktop\\allup\\allupmvc\\allup\\models\\productsize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|solutionrelative:allup\\models\\productsize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|c:\\users\\kubra\\onedrive\\desktop\\allup\\allupmvc\\allup\\models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|solutionrelative:allup\\models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|c:\\users\\kubra\\onedrive\\desktop\\allup\\allupmvc\\allup\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|solutionrelative:allup\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|c:\\users\\kubra\\onedrive\\desktop\\allup\\allupmvc\\allup\\areas\\admin\\viewmodels\\category\\getcategoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|solutionrelative:allup\\areas\\admin\\viewmodels\\category\\getcategoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|c:\\users\\kubra\\onedrive\\desktop\\allup\\allupmvc\\allup\\models\\slide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|solutionrelative:allup\\models\\slide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|c:\\users\\kubra\\onedrive\\desktop\\allup\\allupmvc\\allup\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|solutionrelative:allup\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|c:\\users\\kubra\\onedrive\\desktop\\allup\\allupmvc\\allup\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|solutionrelative:allup\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|c:\\users\\kubra\\onedrive\\desktop\\allup\\allupmvc\\allup\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|solutionrelative:allup\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|c:\\users\\kubra\\onedrive\\desktop\\allup\\allupmvc\\allup\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|solutionrelative:allup\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|c:\\users\\kubra\\onedrive\\desktop\\allup\\allupmvc\\allup\\areas\\admin\\viewmodels\\tag\\updatetagvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|solutionrelative:allup\\areas\\admin\\viewmodels\\tag\\updatetagvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|c:\\users\\kubra\\onedrive\\desktop\\allup\\allupmvc\\allup\\areas\\admin\\viewmodels\\size\\updatesizevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|solutionrelative:allup\\areas\\admin\\viewmodels\\size\\updatesizevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|c:\\users\\kubra\\onedrive\\desktop\\allup\\allupmvc\\allup\\areas\\admin\\viewmodels\\size\\listsizevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|solutionrelative:allup\\areas\\admin\\viewmodels\\size\\listsizevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|c:\\users\\kubra\\onedrive\\desktop\\allup\\allupmvc\\allup\\areas\\admin\\viewmodels\\size\\createsizevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|solutionrelative:allup\\areas\\admin\\viewmodels\\size\\createsizevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|c:\\users\\kubra\\onedrive\\desktop\\allup\\allupmvc\\allup\\areas\\admin\\viewmodels\\color\\updatecolorvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|solutionrelative:allup\\areas\\admin\\viewmodels\\color\\updatecolorvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|c:\\users\\kubra\\onedrive\\desktop\\allup\\allupmvc\\allup\\areas\\admin\\viewmodels\\color\\listcolorvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|solutionrelative:allup\\areas\\admin\\viewmodels\\color\\listcolorvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|c:\\users\\kubra\\onedrive\\desktop\\allup\\allupmvc\\allup\\areas\\admin\\viewmodels\\color\\createcolorvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|solutionrelative:allup\\areas\\admin\\viewmodels\\color\\createcolorvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|c:\\users\\kubra\\onedrive\\desktop\\allup\\allupmvc\\allup\\areas\\admin\\viewmodels\\brand\\updatebrandvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|solutionrelative:allup\\areas\\admin\\viewmodels\\brand\\updatebrandvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|c:\\users\\kubra\\onedrive\\desktop\\allup\\allupmvc\\allup\\areas\\admin\\viewmodels\\brand\\getbrandvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|solutionrelative:allup\\areas\\admin\\viewmodels\\brand\\getbrandvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|c:\\users\\kubra\\onedrive\\desktop\\allup\\allupmvc\\allup\\areas\\admin\\viewmodels\\brand\\createbrandvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|solutionrelative:allup\\areas\\admin\\viewmodels\\brand\\createbrandvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|c:\\users\\kubra\\onedrive\\desktop\\allup\\allupmvc\\allup\\utilities\\enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|solutionrelative:allup\\utilities\\enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|c:\\users\\kubra\\onedrive\\desktop\\allup\\allupmvc\\allup\\utilities\\enums\\sorttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|solutionrelative:allup\\utilities\\enums\\sorttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|c:\\users\\kubra\\onedrive\\desktop\\allup\\allupmvc\\allup\\areas\\admin\\viewmodels\\category\\updatecategoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|solutionrelative:allup\\areas\\admin\\viewmodels\\category\\updatecategoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|c:\\users\\kubra\\onedrive\\desktop\\allup\\allupmvc\\allup\\models\\size.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|solutionrelative:allup\\models\\size.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|c:\\users\\kubra\\onedrive\\desktop\\allup\\allupmvc\\allup\\allup.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|solutionrelative:allup\\allup.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|c:\\users\\kubra\\onedrive\\desktop\\allup\\allupmvc\\allup\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|solutionrelative:allup\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|c:\\users\\kubra\\onedrive\\desktop\\allup\\allupmvc\\allup\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4CB7B339-1539-4A68-895C-B81C747DF7B9}|Allup\\Allup.csproj|solutionrelative:allup\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20241223212132_createBasketTables.cs",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Migrations\\20241223212132_createBasketTables.cs",
+              "RelativeDocumentMoniker": "Allup\\Migrations\\20241223212132_createBasketTables.cs",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Migrations\\20241223212132_createBasketTables.cs",
+              "RelativeToolTip": "Allup\\Migrations\\20241223212132_createBasketTables.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T21:21:32.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BrandController.cs",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Areas\\Admin\\Controllers\\BrandController.cs",
+              "RelativeDocumentMoniker": "Allup\\Areas\\Admin\\Controllers\\BrandController.cs",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Areas\\Admin\\Controllers\\BrandController.cs",
+              "RelativeToolTip": "Allup\\Areas\\Admin\\Controllers\\BrandController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAhwDoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T14:22:17.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Allup\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Allup\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAA/wCYAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T14:42:19.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TagController.cs",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Areas\\Admin\\Controllers\\TagController.cs",
+              "RelativeDocumentMoniker": "Allup\\Areas\\Admin\\Controllers\\TagController.cs",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Areas\\Admin\\Controllers\\TagController.cs",
+              "RelativeToolTip": "Allup\\Areas\\Admin\\Controllers\\TagController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T11:24:01.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Allup\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Allup\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAwwG0AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T15:01:27.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FileSize.cs",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Utilities\\Enums\\FileSize.cs",
+              "RelativeDocumentMoniker": "Allup\\Utilities\\Enums\\FileSize.cs",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Utilities\\Enums\\FileSize.cs",
+              "RelativeToolTip": "Allup\\Utilities\\Enums\\FileSize.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T14:51:26.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FileValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Utilities\\Extensions\\FileValidator.cs",
+              "RelativeDocumentMoniker": "Allup\\Utilities\\Extensions\\FileValidator.cs",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Utilities\\Extensions\\FileValidator.cs",
+              "RelativeToolTip": "Allup\\Utilities\\Extensions\\FileValidator.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAwwBIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T15:23:24.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Allup\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Models\\Product.cs",
+              "RelativeToolTip": "Allup\\Models\\Product.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAjwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T13:46:07.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateProductVM.cs",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Areas\\Admin\\ViewModels\\Product\\CreateProductVM.cs",
+              "RelativeDocumentMoniker": "Allup\\Areas\\Admin\\ViewModels\\Product\\CreateProductVM.cs",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Areas\\Admin\\ViewModels\\Product\\CreateProductVM.cs",
+              "RelativeToolTip": "Allup\\Areas\\Admin\\ViewModels\\Product\\CreateProductVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T14:03:12.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Areas\\Admin\\Views\\Brand\\Update.cshtml",
+              "RelativeDocumentMoniker": "Allup\\Areas\\Admin\\Views\\Brand\\Update.cshtml",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Areas\\Admin\\Views\\Brand\\Update.cshtml",
+              "RelativeToolTip": "Allup\\Areas\\Admin\\Views\\Brand\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T14:37:36.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Areas\\Admin\\Views\\Brand\\Index.cshtml",
+              "RelativeDocumentMoniker": "Allup\\Areas\\Admin\\Views\\Brand\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Areas\\Admin\\Views\\Brand\\Index.cshtml",
+              "RelativeToolTip": "Allup\\Areas\\Admin\\Views\\Brand\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T14:36:10.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Areas\\Admin\\Views\\Brand\\Create.cshtml",
+              "RelativeDocumentMoniker": "Allup\\Areas\\Admin\\Views\\Brand\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Areas\\Admin\\Views\\Brand\\Create.cshtml",
+              "RelativeToolTip": "Allup\\Areas\\Admin\\Views\\Brand\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T14:34:41.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "RelativeDocumentMoniker": "Allup\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "RelativeToolTip": "Allup\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "ViewState": "AgIAACkAAAAAAAAAAADwvzsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T11:52:34.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "Allup\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "Allup\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAACUAAAAAAAAAAADwvykAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T11:51:49.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Program.cs",
+              "RelativeDocumentMoniker": "Allup\\Program.cs",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Program.cs",
+              "RelativeToolTip": "Allup\\Program.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T14:04:08.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Views\\Shop\\Index.cshtml",
+              "RelativeDocumentMoniker": "Allup\\Views\\Shop\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Views\\Shop\\Index.cshtml",
+              "RelativeToolTip": "Allup\\Views\\Shop\\Index.cshtml",
+              "ViewState": "AgIAAOcBAAAAAAAAAADwvzAAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T14:51:22.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ShopController.cs",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Controllers\\ShopController.cs",
+              "RelativeDocumentMoniker": "Allup\\Controllers\\ShopController.cs",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Controllers\\ShopController.cs",
+              "RelativeToolTip": "Allup\\Controllers\\ShopController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T14:50:31.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ShopVM.cs",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\ViewModels\\ShopVM.cs",
+              "RelativeDocumentMoniker": "Allup\\ViewModels\\ShopVM.cs",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\ViewModels\\ShopVM.cs",
+              "RelativeToolTip": "Allup\\ViewModels\\ShopVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T20:53:32.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Checkout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Views\\Basket\\Checkout.cshtml",
+              "RelativeDocumentMoniker": "Allup\\Views\\Basket\\Checkout.cshtml",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Views\\Basket\\Checkout.cshtml",
+              "RelativeToolTip": "Allup\\Views\\Basket\\Checkout.cshtml",
+              "ViewState": "AgIAAI0AAAAAxLVsbowXwAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T20:48:29.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Views\\Basket\\Index.cshtml",
+              "RelativeDocumentMoniker": "Allup\\Views\\Basket\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Views\\Basket\\Index.cshtml",
+              "RelativeToolTip": "Allup\\Views\\Basket\\Index.cshtml",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAAADwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T20:47:08.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BasketController.cs",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Controllers\\BasketController.cs",
+              "RelativeDocumentMoniker": "Allup\\Controllers\\BasketController.cs",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Controllers\\BasketController.cs",
+              "RelativeToolTip": "Allup\\Controllers\\BasketController.cs",
+              "ViewState": "AgIAALwAAAAAAAAAAAAwwLUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T20:32:18.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "Allup\\Models\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Models\\OrderItem.cs",
+              "RelativeToolTip": "Allup\\Models\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T20:39:01.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Allup\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Models\\Order.cs",
+              "RelativeToolTip": "Allup\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T20:38:23.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "BasketItems.cs",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Models\\BasketItems.cs",
+              "RelativeDocumentMoniker": "Allup\\Models\\BasketItems.cs",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Models\\BasketItems.cs",
+              "RelativeToolTip": "Allup\\Models\\BasketItems.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T20:37:54.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "OrderVM.cs",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\ViewModels\\OrderVM.cs",
+              "RelativeDocumentMoniker": "Allup\\ViewModels\\OrderVM.cs",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\ViewModels\\OrderVM.cs",
+              "RelativeToolTip": "Allup\\ViewModels\\OrderVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T20:36:04.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "BasketInOrdersVM.cs",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\ViewModels\\BasketInOrdersVM.cs",
+              "RelativeDocumentMoniker": "Allup\\ViewModels\\BasketInOrdersVM.cs",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\ViewModels\\BasketInOrdersVM.cs",
+              "RelativeToolTip": "Allup\\ViewModels\\BasketInOrdersVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T20:35:35.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\DAL\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "Allup\\DAL\\AppDBContext.cs",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\DAL\\AppDBContext.cs",
+              "RelativeToolTip": "Allup\\DAL\\AppDBContext.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwBsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T14:23:14.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "Allup\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Models\\AppUser.cs",
+              "RelativeToolTip": "Allup\\Models\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T12:38:29.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "BasketCookieItemVM.cs",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\ViewModels\\BasketCookieItemVM.cs",
+              "RelativeDocumentMoniker": "Allup\\ViewModels\\BasketCookieItemVM.cs",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\ViewModels\\BasketCookieItemVM.cs",
+              "RelativeToolTip": "Allup\\ViewModels\\BasketCookieItemVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T20:35:03.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "BasketItemVM.cs",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\ViewModels\\BasketItemVM.cs",
+              "RelativeDocumentMoniker": "Allup\\ViewModels\\BasketItemVM.cs",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\ViewModels\\BasketItemVM.cs",
+              "RelativeToolTip": "Allup\\ViewModels\\BasketItemVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T20:34:28.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "GetProductAdminVM.cs",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Areas\\Admin\\ViewModels\\Product\\GetProductAdminVM.cs",
+              "RelativeDocumentMoniker": "Allup\\Areas\\Admin\\ViewModels\\Product\\GetProductAdminVM.cs",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Areas\\Admin\\ViewModels\\Product\\GetProductAdminVM.cs",
+              "RelativeToolTip": "Allup\\Areas\\Admin\\ViewModels\\Product\\GetProductAdminVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T14:55:54.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "UpdateProductVM.cs",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Areas\\Admin\\ViewModels\\Product\\UpdateProductVM.cs",
+              "RelativeDocumentMoniker": "Allup\\Areas\\Admin\\ViewModels\\Product\\UpdateProductVM.cs",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Areas\\Admin\\ViewModels\\Product\\UpdateProductVM.cs",
+              "RelativeToolTip": "Allup\\Areas\\Admin\\ViewModels\\Product\\UpdateProductVM.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T14:09:01.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Allup\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Allup\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T11:51:38.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ProductColor.cs",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Models\\ProductColor.cs",
+              "RelativeDocumentMoniker": "Allup\\Models\\ProductColor.cs",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Models\\ProductColor.cs",
+              "RelativeToolTip": "Allup\\Models\\ProductColor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T13:58:55.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Color.cs",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Models\\Color.cs",
+              "RelativeDocumentMoniker": "Allup\\Models\\Color.cs",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Models\\Color.cs",
+              "RelativeToolTip": "Allup\\Models\\Color.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T13:58:16.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Allup\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Models\\Category.cs",
+              "RelativeToolTip": "Allup\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T13:56:20.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Allup\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Allup\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-20T13:32:48.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Allup\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Allup\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAA/wEYAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T11:55:54.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Allup\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Allup\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T14:54:25.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "RegisterVM.cs",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\ViewModels\\Account\\RegisterVM.cs",
+              "RelativeDocumentMoniker": "Allup\\ViewModels\\Account\\RegisterVM.cs",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\ViewModels\\Account\\RegisterVM.cs",
+              "RelativeToolTip": "Allup\\ViewModels\\Account\\RegisterVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T12:57:23.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "LoginVM.cs",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\ViewModels\\Account\\LoginVM.cs",
+              "RelativeDocumentMoniker": "Allup\\ViewModels\\Account\\LoginVM.cs",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\ViewModels\\Account\\LoginVM.cs",
+              "RelativeToolTip": "Allup\\ViewModels\\Account\\LoginVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T13:33:22.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Allup\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Allup\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T13:00:16.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Allup\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Allup\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJUAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T14:52:40.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Allup\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Allup\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAE8OAAAAAAAAAADwv2AOAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T13:43:12.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Models\\Base\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Allup\\Models\\Base\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Models\\Base\\BaseEntity.cs",
+              "RelativeToolTip": "Allup\\Models\\Base\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T14:35:23.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Areas\\Admin\\Views\\Tag\\Update.cshtml",
+              "RelativeDocumentMoniker": "Allup\\Areas\\Admin\\Views\\Tag\\Update.cshtml",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Areas\\Admin\\Views\\Tag\\Update.cshtml",
+              "RelativeToolTip": "Allup\\Areas\\Admin\\Views\\Tag\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T11:33:06.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "CreateCategoryVM.cs",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Areas\\Admin\\ViewModels\\Category\\CreateCategoryVM.cs",
+              "RelativeDocumentMoniker": "Allup\\Areas\\Admin\\ViewModels\\Category\\CreateCategoryVM.cs",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Areas\\Admin\\ViewModels\\Category\\CreateCategoryVM.cs",
+              "RelativeToolTip": "Allup\\Areas\\Admin\\ViewModels\\Category\\CreateCategoryVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T15:00:11.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Areas\\Admin\\Views\\Tag\\Create.cshtml",
+              "RelativeDocumentMoniker": "Allup\\Areas\\Admin\\Views\\Tag\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Areas\\Admin\\Views\\Tag\\Create.cshtml",
+              "RelativeToolTip": "Allup\\Areas\\Admin\\Views\\Tag\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T11:32:54.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Areas\\Admin\\Views\\Tag\\Index.cshtml",
+              "RelativeDocumentMoniker": "Allup\\Areas\\Admin\\Views\\Tag\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Areas\\Admin\\Views\\Tag\\Index.cshtml",
+              "RelativeToolTip": "Allup\\Areas\\Admin\\Views\\Tag\\Index.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwvzcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T11:33:17.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "Allup\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "Allup\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAIBZwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T14:46:02.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Areas\\Admin\\Views\\Category\\Update.cshtml",
+              "RelativeDocumentMoniker": "Allup\\Areas\\Admin\\Views\\Category\\Update.cshtml",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Areas\\Admin\\Views\\Category\\Update.cshtml",
+              "RelativeToolTip": "Allup\\Areas\\Admin\\Views\\Category\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwBUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T14:59:51.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "Allup\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "Allup\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T14:46:24.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "CreateTagVM.cs",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Areas\\Admin\\ViewModels\\Tag\\CreateTagVM.cs",
+              "RelativeDocumentMoniker": "Allup\\Areas\\Admin\\ViewModels\\Tag\\CreateTagVM.cs",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Areas\\Admin\\ViewModels\\Tag\\CreateTagVM.cs",
+              "RelativeToolTip": "Allup\\Areas\\Admin\\ViewModels\\Tag\\CreateTagVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T14:55:04.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "ListTagVM.cs",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Areas\\Admin\\ViewModels\\Tag\\ListTagVM.cs",
+              "RelativeDocumentMoniker": "Allup\\Areas\\Admin\\ViewModels\\Tag\\ListTagVM.cs",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Areas\\Admin\\ViewModels\\Tag\\ListTagVM.cs",
+              "RelativeToolTip": "Allup\\Areas\\Admin\\ViewModels\\Tag\\ListTagVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T14:55:18.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "20241218111830_CreateTagsandBrandsTable.cs",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Migrations\\20241218111830_CreateTagsandBrandsTable.cs",
+              "RelativeDocumentMoniker": "Allup\\Migrations\\20241218111830_CreateTagsandBrandsTable.cs",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Migrations\\20241218111830_CreateTagsandBrandsTable.cs",
+              "RelativeToolTip": "Allup\\Migrations\\20241218111830_CreateTagsandBrandsTable.cs",
+              "ViewState": "AgIAAJkAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T11:18:33.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Views\\Shop\\Detail.cshtml",
+              "RelativeDocumentMoniker": "Allup\\Views\\Shop\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Views\\Shop\\Detail.cshtml",
+              "RelativeToolTip": "Allup\\Views\\Shop\\Detail.cshtml",
+              "ViewState": "AgIAAEYAAAAAAAAAAADwv1gAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T14:51:47.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "DetailVM.cs",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\ViewModels\\DetailVM.cs",
+              "RelativeDocumentMoniker": "Allup\\ViewModels\\DetailVM.cs",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\ViewModels\\DetailVM.cs",
+              "RelativeToolTip": "Allup\\ViewModels\\DetailVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T14:07:53.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "ProductTag.cs",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Models\\ProductTag.cs",
+              "RelativeDocumentMoniker": "Allup\\Models\\ProductTag.cs",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Models\\ProductTag.cs",
+              "RelativeToolTip": "Allup\\Models\\ProductTag.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T14:06:47.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "ProductSize.cs",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Models\\ProductSize.cs",
+              "RelativeDocumentMoniker": "Allup\\Models\\ProductSize.cs",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Models\\ProductSize.cs",
+              "RelativeToolTip": "Allup\\Models\\ProductSize.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T14:05:02.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Brand.cs",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Models\\Brand.cs",
+              "RelativeDocumentMoniker": "Allup\\Models\\Brand.cs",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Models\\Brand.cs",
+              "RelativeToolTip": "Allup\\Models\\Brand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T13:54:05.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "ProductImage.cs",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Models\\ProductImage.cs",
+              "RelativeDocumentMoniker": "Allup\\Models\\ProductImage.cs",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Models\\ProductImage.cs",
+              "RelativeToolTip": "Allup\\Models\\ProductImage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T13:56:44.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "GetCategoryVM.cs",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Areas\\Admin\\ViewModels\\Category\\GetCategoryVM.cs",
+              "RelativeDocumentMoniker": "Allup\\Areas\\Admin\\ViewModels\\Category\\GetCategoryVM.cs",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Areas\\Admin\\ViewModels\\Category\\GetCategoryVM.cs",
+              "RelativeToolTip": "Allup\\Areas\\Admin\\ViewModels\\Category\\GetCategoryVM.cs",
+              "ViewState": "AgIAAAEAAABAGCesxPELwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T15:05:52.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Slide.cs",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Models\\Slide.cs",
+              "RelativeDocumentMoniker": "Allup\\Models\\Slide.cs",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Models\\Slide.cs",
+              "RelativeToolTip": "Allup\\Models\\Slide.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T14:39:28.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Tag.cs",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Models\\Tag.cs",
+              "RelativeDocumentMoniker": "Allup\\Models\\Tag.cs",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Models\\Tag.cs",
+              "RelativeToolTip": "Allup\\Models\\Tag.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T14:06:36.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Allup\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Allup\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIBAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T14:37:03.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Allup\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Allup\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T14:39:26.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "HomeVM.cs",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\ViewModels\\HomeVM.cs",
+              "RelativeDocumentMoniker": "Allup\\ViewModels\\HomeVM.cs",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\ViewModels\\HomeVM.cs",
+              "RelativeToolTip": "Allup\\ViewModels\\HomeVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T14:46:25.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "UpdateTagVM.cs",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Areas\\Admin\\ViewModels\\Tag\\UpdateTagVM.cs",
+              "RelativeDocumentMoniker": "Allup\\Areas\\Admin\\ViewModels\\Tag\\UpdateTagVM.cs",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Areas\\Admin\\ViewModels\\Tag\\UpdateTagVM.cs",
+              "RelativeToolTip": "Allup\\Areas\\Admin\\ViewModels\\Tag\\UpdateTagVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T14:55:26.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "UpdateSizeVM.cs",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Areas\\Admin\\ViewModels\\Size\\UpdateSizeVM.cs",
+              "RelativeDocumentMoniker": "Allup\\Areas\\Admin\\ViewModels\\Size\\UpdateSizeVM.cs",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Areas\\Admin\\ViewModels\\Size\\UpdateSizeVM.cs",
+              "RelativeToolTip": "Allup\\Areas\\Admin\\ViewModels\\Size\\UpdateSizeVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T14:54:51.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "ListSizeVM.cs",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Areas\\Admin\\ViewModels\\Size\\ListSizeVM.cs",
+              "RelativeDocumentMoniker": "Allup\\Areas\\Admin\\ViewModels\\Size\\ListSizeVM.cs",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Areas\\Admin\\ViewModels\\Size\\ListSizeVM.cs",
+              "RelativeToolTip": "Allup\\Areas\\Admin\\ViewModels\\Size\\ListSizeVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T14:54:42.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "CreateSizeVM.cs",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Areas\\Admin\\ViewModels\\Size\\CreateSizeVM.cs",
+              "RelativeDocumentMoniker": "Allup\\Areas\\Admin\\ViewModels\\Size\\CreateSizeVM.cs",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Areas\\Admin\\ViewModels\\Size\\CreateSizeVM.cs",
+              "RelativeToolTip": "Allup\\Areas\\Admin\\ViewModels\\Size\\CreateSizeVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T14:54:32.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "UpdateColorVM.cs",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Areas\\Admin\\ViewModels\\Color\\UpdateColorVM.cs",
+              "RelativeDocumentMoniker": "Allup\\Areas\\Admin\\ViewModels\\Color\\UpdateColorVM.cs",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Areas\\Admin\\ViewModels\\Color\\UpdateColorVM.cs",
+              "RelativeToolTip": "Allup\\Areas\\Admin\\ViewModels\\Color\\UpdateColorVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T14:54:21.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "ListColorVM.cs",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Areas\\Admin\\ViewModels\\Color\\ListColorVM.cs",
+              "RelativeDocumentMoniker": "Allup\\Areas\\Admin\\ViewModels\\Color\\ListColorVM.cs",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Areas\\Admin\\ViewModels\\Color\\ListColorVM.cs",
+              "RelativeToolTip": "Allup\\Areas\\Admin\\ViewModels\\Color\\ListColorVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T14:54:13.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "CreateColorVM.cs",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Areas\\Admin\\ViewModels\\Color\\CreateColorVM.cs",
+              "RelativeDocumentMoniker": "Allup\\Areas\\Admin\\ViewModels\\Color\\CreateColorVM.cs",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Areas\\Admin\\ViewModels\\Color\\CreateColorVM.cs",
+              "RelativeToolTip": "Allup\\Areas\\Admin\\ViewModels\\Color\\CreateColorVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T14:54:01.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Utilities\\Enums\\UserRole.cs",
+              "RelativeDocumentMoniker": "Allup\\Utilities\\Enums\\UserRole.cs",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Utilities\\Enums\\UserRole.cs",
+              "RelativeToolTip": "Allup\\Utilities\\Enums\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T14:51:46.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "SortType.cs",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Utilities\\Enums\\SortType.cs",
+              "RelativeDocumentMoniker": "Allup\\Utilities\\Enums\\SortType.cs",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Utilities\\Enums\\SortType.cs",
+              "RelativeToolTip": "Allup\\Utilities\\Enums\\SortType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T14:51:39.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "CreateBrandVM.cs",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Areas\\Admin\\ViewModels\\Brand\\CreateBrandVM.cs",
+              "RelativeDocumentMoniker": "Allup\\Areas\\Admin\\ViewModels\\Brand\\CreateBrandVM.cs",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Areas\\Admin\\ViewModels\\Brand\\CreateBrandVM.cs",
+              "RelativeToolTip": "Allup\\Areas\\Admin\\ViewModels\\Brand\\CreateBrandVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T14:26:11.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "GetBrandVM.cs",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Areas\\Admin\\ViewModels\\Brand\\GetBrandVM.cs",
+              "RelativeDocumentMoniker": "Allup\\Areas\\Admin\\ViewModels\\Brand\\GetBrandVM.cs",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Areas\\Admin\\ViewModels\\Brand\\GetBrandVM.cs",
+              "RelativeToolTip": "Allup\\Areas\\Admin\\ViewModels\\Brand\\GetBrandVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T14:20:23.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "UpdateBrandVM.cs",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Areas\\Admin\\ViewModels\\Brand\\UpdateBrandVM.cs",
+              "RelativeDocumentMoniker": "Allup\\Areas\\Admin\\ViewModels\\Brand\\UpdateBrandVM.cs",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Areas\\Admin\\ViewModels\\Brand\\UpdateBrandVM.cs",
+              "RelativeToolTip": "Allup\\Areas\\Admin\\ViewModels\\Brand\\UpdateBrandVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T14:16:59.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "UpdateCategoryVM.cs",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Areas\\Admin\\ViewModels\\Category\\UpdateCategoryVM.cs",
+              "RelativeDocumentMoniker": "Allup\\Areas\\Admin\\ViewModels\\Category\\UpdateCategoryVM.cs",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Areas\\Admin\\ViewModels\\Category\\UpdateCategoryVM.cs",
+              "RelativeToolTip": "Allup\\Areas\\Admin\\ViewModels\\Category\\UpdateCategoryVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T15:06:38.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "Size.cs",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Models\\Size.cs",
+              "RelativeDocumentMoniker": "Allup\\Models\\Size.cs",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Models\\Size.cs",
+              "RelativeToolTip": "Allup\\Models\\Size.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T14:04:36.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "Allup.csproj",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Allup.csproj",
+              "RelativeDocumentMoniker": "Allup\\Allup.csproj",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Allup.csproj",
+              "RelativeToolTip": "Allup\\Allup.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-21T14:45:58.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Allup\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Allup\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAN4AAAAAAAAAAAASwPEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T14:37:40.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "Allup\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "Allup\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-26T14:35:17.356Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

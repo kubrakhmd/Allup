@@ -1,0 +1,945 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\Admin\\css\\maps\\style.css.map",
+      "PackagePath": "staticwebassets\\Admin\\css\\maps\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\Admin\\css\\style.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Black.eot",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Black.eot"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Black.ttf",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Black.woff",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Black.woff"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Black.woff2",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Black.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Bold.eot",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Bold.eot"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Bold.ttf",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Bold.woff",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Bold.woff"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Bold.woff2",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Bold.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Light.eot",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Light.eot"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Light.ttf",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Light.woff",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Light.woff"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Light.woff2",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Light.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Medium.eot",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Medium.eot"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Medium.ttf",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Medium.woff",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Medium.woff"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Medium.woff2",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Medium.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Regular.eot",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Regular.ttf",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Regular.woff",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Regular.woff2",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\Admin\\images\\auth\\lockscreen-bg.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\auth\\lockscreen-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\Admin\\images\\auth\\login-bg.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\auth\\login-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\Admin\\images\\auth\\register-bg.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\auth\\register-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\Admin\\images\\faces\\face1.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\Admin\\images\\faces\\face10.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\Admin\\images\\faces\\face11.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\Admin\\images\\faces\\face12.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\Admin\\images\\faces\\face13.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\Admin\\images\\faces\\face14.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\Admin\\images\\faces\\face15.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\Admin\\images\\faces\\face16.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\Admin\\images\\faces\\face17.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\Admin\\images\\faces\\face18.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\Admin\\images\\faces\\face19.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\Admin\\images\\faces\\face2.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\Admin\\images\\faces\\face20.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\Admin\\images\\faces\\face21.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\Admin\\images\\faces\\face22.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\Admin\\images\\faces\\face23.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\Admin\\images\\faces\\face24.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\Admin\\images\\faces\\face25.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\Admin\\images\\faces\\face26.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\Admin\\images\\faces\\face27.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face27.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\Admin\\images\\faces\\face3.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\Admin\\images\\faces\\face4.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\Admin\\images\\faces\\face5.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\Admin\\images\\faces\\face6.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\Admin\\images\\faces\\face7.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\Admin\\images\\faces\\face8.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\Admin\\images\\faces\\face9.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\Admin\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\Admin\\images\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\Admin\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\Admin\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\Admin\\images\\logo-mini.svg",
+      "PackagePath": "staticwebassets\\Admin\\images\\logo-mini.svg"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\Admin\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\Admin\\images\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\Admin\\js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\Admin\\js\\chart.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\chart.js"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\Admin\\js\\dashboard.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\Admin\\js\\data-table.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\data-table.js"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\Admin\\js\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\Admin\\js\\documentation.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\documentation.js"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\Admin\\js\\file-upload.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\file-upload.js"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\Admin\\js\\hoverable-collapse.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\hoverable-collapse.js"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\Admin\\js\\jquery.cookie.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\jquery.cookie.js"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\Admin\\js\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\jquery.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\Admin\\js\\off-canvas.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\off-canvas.js"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\Admin\\js\\tabs.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\tabs.js"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\Admin\\js\\template.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\template.js"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\Admin\\vendors\\base\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\base\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\Admin\\vendors\\base\\vendor.bundle.base.css",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\base\\vendor.bundle.base.css"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\Admin\\vendors\\base\\vendor.bundle.base.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\base\\vendor.bundle.base.js"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\Admin\\vendors\\chart.js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\chart.js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\Admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\Admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\Admin\\vendors\\datatables.net\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\datatables.net\\jquery.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\Admin\\vendors\\mdi\\css\\materialdesignicons.min.css",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\mdi\\css\\materialdesignicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\Admin\\vendors\\mdi\\css\\materialdesignicons.min.css.map",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\mdi\\css\\materialdesignicons.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\Admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\Admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\Admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\Admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\css\\plugins\\animate.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\css\\plugins\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\css\\plugins\\default.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\default.css"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\css\\plugins\\fontawesome.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\fontawesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\css\\plugins\\images\\ui-icons_444444_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\images\\ui-icons_444444_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\css\\plugins\\images\\ui-icons_555555_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\images\\ui-icons_555555_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\css\\plugins\\images\\ui-icons_777620_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\images\\ui-icons_777620_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\css\\plugins\\images\\ui-icons_777777_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\images\\ui-icons_777777_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\css\\plugins\\images\\ui-icons_cc0000_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\images\\ui-icons_cc0000_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\css\\plugins\\images\\ui-icons_ffffff_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\images\\ui-icons_ffffff_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\css\\plugins\\ionicons.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\ionicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\css\\plugins\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\jquery-ui.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\css\\plugins\\slick.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\slick.css"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\fonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\fonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\fonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\fonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\fonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\fonts\\fa-brands-400d41d.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-brands-400d41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\fonts\\fa-light-300.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-light-300.eot"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\fonts\\fa-light-300.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-light-300.svg"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\fonts\\fa-light-300.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-light-300.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\fonts\\fa-light-300.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-light-300.woff"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\fonts\\fa-light-300.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-light-300.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\fonts\\fa-light-300d41d.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-light-300d41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\fonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\fonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\fonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\fonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\fonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\fonts\\fa-regular-400d41d.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-regular-400d41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\fonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\fonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\fonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\fonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\fonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\fonts\\fa-solid-900d41d.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-solid-900d41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\fonts\\ionicons28b5.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\ionicons28b5.eot"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\fonts\\ionicons28b5.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\ionicons28b5.svg"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\fonts\\ionicons28b5.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\ionicons28b5.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\fonts\\ionicons28b5.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\ionicons28b5.woff"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\images\\author-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\author-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\images\\banner-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\images\\banner-10.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\images\\banner-11.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\images\\banner-12.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\images\\banner-13.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\images\\banner-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\images\\banner-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\images\\banner-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\images\\banner-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\images\\banner-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\images\\banner-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\images\\banner-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\images\\banner-9.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\images\\banner-icon\\icon1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-icon\\icon1.png"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\images\\banner-icon\\icon2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-icon\\icon2.png"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\images\\banner-icon\\icon3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-icon\\icon3.png"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\images\\banner-icon\\icon4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-icon\\icon4.png"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\images\\banner-icon\\icon5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-icon\\icon5.png"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\images\\banner-image.png",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-image.png"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\images\\bg-cound.png",
+      "PackagePath": "staticwebassets\\assets\\images\\bg-cound.png"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\images\\bg-footer.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bg-footer.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\images\\bg-newletter.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bg-newletter.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\images\\bg_testimonial.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bg_testimonial.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\images\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\images\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\images\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\images\\blog-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\images\\brand\\brand-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\brand\\brand-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\images\\brand\\brand-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\brand\\brand-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\images\\brand\\brand-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\brand\\brand-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\images\\brand\\brand-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\brand\\brand-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\images\\brand\\brand-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\brand\\brand-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\images\\brand\\brand-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\brand\\brand-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\images\\category-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\category-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\images\\category-10.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\category-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\images\\category-11.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\category-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\images\\category-12.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\category-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\images\\category-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\category-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\images\\category-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\category-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\images\\category-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\category-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\images\\category-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\category-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\images\\category-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\category-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\images\\category-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\category-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\images\\category-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\category-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\images\\category-9.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\category-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\images\\comment-author.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\comment-author.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\images\\custom_banner.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\custom_banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\images\\flag\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\flag\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\images\\flag\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\flag\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\images\\icon-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icon-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\images\\icon-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icon-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\images\\icon-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icon-3.png"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\images\\logo-white.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo-white.png"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\images\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\images\\payment.png",
+      "PackagePath": "staticwebassets\\assets\\images\\payment.png"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\images\\product-cart\\cart-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-cart\\cart-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\images\\product-cart\\cart-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-cart\\cart-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\images\\product-quick\\product-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-quick\\product-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\images\\product-quick\\product-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-quick\\product-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\images\\product-quick\\product-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-quick\\product-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\images\\product-quick\\product-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-quick\\product-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\images\\product-quick\\product-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-quick\\product-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\images\\product\\product-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\images\\product\\product-10.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\images\\product\\product-11.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\images\\product\\product-12.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\images\\product\\product-13.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\images\\product\\product-14.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\images\\product\\product-15.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\images\\product\\product-16.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\images\\product\\product-17.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\images\\product\\product-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\images\\product\\product-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\images\\product\\product-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\images\\product\\product-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\images\\product\\product-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\images\\product\\product-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\images\\product\\product-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\images\\product\\product-9.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\images\\slider-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\images\\slider-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\images\\slider-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\images\\slider-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\images\\slider-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\images\\slider-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\images\\slider-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\images\\slider-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\images\\special-products\\special-products-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\special-products\\special-products-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\images\\special-products\\special-products-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\special-products\\special-products-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\images\\special-products\\special-products-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\special-products\\special-products-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\images\\special-products\\special-products-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\special-products\\special-products-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\images\\special-products\\special-products-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\special-products\\special-products-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\images\\special-products\\special-products-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\special-products\\special-products-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\images\\special-products\\special-products-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\special-products\\special-products-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\images\\special-products\\special-products-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\special-products\\special-products-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\js\\map-script.js",
+      "PackagePath": "staticwebassets\\assets\\js\\map-script.js"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\js\\plugins\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\js\\plugins\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\jquery-ui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\js\\plugins\\jquery.countdown.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\jquery.countdown.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\js\\plugins\\popper.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\js\\plugins\\slick.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\slick.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\js\\vendor\\jquery-1.12.4.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\jquery-1.12.4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\js\\vendor\\modernizr-3.7.1.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\modernizr-3.7.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Allup\\AllupMVC\\Allup\\wwwroot\\assets\\plugins\\js\\ajax-contact.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\js\\ajax-contact.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Allup.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Allup.props",
+      "PackagePath": "build\\Allup.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Allup.props",
+      "PackagePath": "buildMultiTargeting\\Allup.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Allup.props",
+      "PackagePath": "buildTransitive\\Allup.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

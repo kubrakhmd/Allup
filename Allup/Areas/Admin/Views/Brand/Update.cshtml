@@ -1,0 +1,22 @@
+﻿@using Allup.Models
+@model Brand
+<div class="row">
+    <div class="col-12 grid-margin stretch-card">
+        <div class="card">
+            <div class="card-body">
+                <a asp-action="update" class="card-title">Update Brand</a>
+
+                <form class="forms-sample" method="post">
+                    <div class="form-group">
+                        <label for="name">Name</label>
+                        <input asp-for="Name" class="form-control" placeholder="Name">
+                        <span class="text-danger" asp-validation-for="Name"></span>
+                    </div>
+
+                    <button type="submit" class="btn btn-primary me-2">Update</button>
+                    <button class="btn btn-light">Cancel</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

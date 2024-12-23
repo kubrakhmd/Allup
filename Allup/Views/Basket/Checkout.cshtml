@@ -1,0 +1,152 @@
+﻿@using Allup.ViewModels
+@model OrderVM
+@{
+    decimal total = 0;
+}
+<!--====== Breadcrumb Part Start ======-->
+
+<div class="breadcrumb-area">
+    <div class="container-fluid custom-container">
+        <nav aria-label="breadcrumb">
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a asp-controller="home" asp-action="index">Home</a></li>
+                <li class="breadcrumb-item active">Checkout</li>
+            </ol>
+        </nav>
+    </div> <!-- container -->
+</div>
+
+<!--====== Breadcrumb Part Ends ======-->
+<!--====== Checkout Part Start ======-->
+
+<section class="checkout-area pt-10">
+    <div class="container-fluid custom-container">
+        <div class="row">
+            <div class="col-xl-8 col-lg-7">
+                <div class="checkout-form">
+                    <form method="post">
+                        <div class="billing-address mt-30">
+                            <h4 class="allup-title">Billing Address</h4>
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <div class="single-form">
+                                        <label asp-for="Number">Phone Number</label>
+                                        <input asp-for="Number" placeholder="Phone Number">
+                                        <span asp-validation-for="Number"></span>
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="single-form">
+                                        <label asp-for="Address">Address</label>
+                                        <input asp-for="Address" placeholder="Address">
+                                        <span asp-validation-for="Address"></span>
+                                    </div>
+                                </div>
+                                <div class="checkout-btn">
+                                    <input class="main-btn main-btn-2" type="submit" value="Place Order">
+                                </div>
+                            </div>
+                        </div>
+
+                    </form>
+                </div>
+            </div>
+            @foreach (var item in Model.BasketinOrders)
+            {
+                total += item.Subtotal;
+                <div class="col-xl-4 col-lg-5">
+                    <div class="checkout-total-wrapper mt-30">
+                        <h4 class="allup-title">Cart Total</h4>
+                        <div class="checkout-total mt-30">
+                            <h4 class="title">Product  <span></span></h4>
+                            <div class="checkout-total-sub">
+                                <p class="total-value">Sub Total</p>
+                                <p class="total-amount">€@item.Subtotal</p>
+                            </div>
+                            <h4 class="title mt-15">Total Price <span>€@total</span></h4>
+                        </div>
+                    </div>
+
+                    <div class="checkout-payment-wrapper mt-30">
+                        <h4 class="allup-title">Payment Method</h4>
+                        <div class="checkout-payment mt-30">
+                            <ul>
+                                <li>
+                                    <div class="single-payment">
+                                        <div class="payment-radio">
+                                            <input type="radio" name="radio" id="check" checked="checked">
+                                            <label for="check"><span></span> Check Payment</label>
+
+                                            <div class="payment-details">
+                                                <p>Please send a Check to Store name with Store Street, Store Town, Store State, Store Postcode, Store Country.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="single-payment">
+                                        <div class="payment-radio">
+                                            <input type="radio" name="radio" id="bank">
+                                            <label for="bank"><span></span> Direct Bank Transfer</label>
+
+                                            <div class="payment-details">
+                                                <p>Please send a Check to Store name with Store Street, Store Town, Store State, Store Postcode, Store Country.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="single-payment">
+                                        <div class="payment-radio">
+                                            <input type="radio" name="radio" id="cash">
+                                            <label for="cash"><span></span> Cash on Delivery</label>
+
+                                            <div class="payment-details">
+                                                <p>Please send a Check to Store name with Store Street, Store Town, Store State, Store Postcode, Store Country.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="single-payment">
+                                        <div class="payment-radio">
+                                            <input type="radio" name="radio" id="paypal">
+                                            <label for="paypal"><span></span> Paypal</label>
+
+                                            <div class="payment-details">
+                                                <p>Please send a Check to Store name with Store Street, Store Town, Store State, Store Postcode, Store Country.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="single-payment">
+                                        <div class="payment-radio">
+                                            <input type="radio" name="radio" id="payoneer">
+                                            <label for="payoneer"><span></span> Payoneer</label>
+
+                                            <div class="payment-details">
+                                                <p>Please send a Check to Store name with Store Street, Store Town, Store State, Store Postcode, Store Country.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="custom-checkbox">
+                                        <input type="checkbox" id="accept">
+                                        <label for="accept"></label>
+                                        <p>I’ve read and accept the terms & conditions</p>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+
+
+                </div>
+            }
+        </div>
+    </div>
+</section>
+
+<!--====== Checkout Part Ends ======-->

@@ -1,0 +1,117 @@
+﻿@using Allup.Areas.ViewModels
+@using Allup.Models
+@model UpdateProductVM
+@{
+    ProductImage main = Model.ProductImages.FirstOrDefault(i => i.IsPrimary == true);
+    ProductImage hover = Model.ProductImages.FirstOrDefault(i => i.IsPrimary == false);
+}
+<div class="row">
+    <div class="col-12 grid-margin stretch-card">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="card-title">Update a Product </h4>
+
+                <form class="forms-sample" method="post" enctype="multipart/form-data">
+                    <div class="form-group">
+                        <img src="~/assets/images/@main?.Image" style="width:100px;height:100px;">
+                        <br />
+                        <label asp-for="MainPhoto">Main Photo</label>
+                        <input asp-for=MainPhoto class="form-control" placeholder="Photo">
+                        <span asp-validation-for="MainPhoto" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <img src="~/assets/images/@hover?.Image" style="width:100px;height:100px;">
+                        <br />
+                        <label asp-for="HoverPhoto">Second photo</label>
+                        <input asp-for=HoverPhoto class="form-control" placeholder="Photo">
+                        <span asp-validation-for="HoverPhoto" class="text-danger"></span>
+                    </div>
+                    <div class="form-group d-flex">
+                        @foreach (var image in Model.ProductImages.Where(i => i.IsPrimary == null).ToList())
+                        {
+
+                            <div class="position-relative">
+                                <img src="~/assets/images/@image.Image" style="width:100px;height:100px;">
+                                <button class="delete-button btn-danger position-absolute " type="button" style="top:5px;right:5px;">X</button>
+                                <input asp-for=ImageIds value="@image.Id" type="hidden" class="form-control">
+                            </div>
+                        }
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="AdditionalPhotos">Additional Photos</label>
+                        <input asp-for=AdditionalPhotos class="form-control" placeholder="Photo">
+                        <span asp-validation-for="AdditionalPhotos" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Name">Name</label>
+                        <input asp-for=Name class="form-control" placeholder="Name">
+                        <span asp-validation-for="Name" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Price">Price</label>
+                        <input asp-for=Price class="form-control" placeholder="Price">
+                        <span asp-validation-for="Price" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="ProdcutCode">ProdcutCode</label>
+                        <input asp-for=ProdcutCode class="form-control" placeholder="ProdcutCode">
+                        <span asp-validation-for="ProdcutCode" class="text-danger"></span>
+                    </div>
+                    
+                    <div class="form-group">
+                        <label asp-for="CategoryId">Category</label>
+                        <select asp-for="CategoryId">
+                            @foreach (var category in Model.Categories)
+                            {
+                                <option value="@category.Id">@category.Name</option>
+                            }
+
+                        </select>
+                        <span asp-validation-for="ProdcutCode" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="BrandId">Brand</label>
+                        <select asp-for="BrandId">
+                            @foreach (var category in Model.Brands)
+                            {
+                                <option value="@category.Id">@category.Name</option>
+                            }
+
+                        </select>
+                        <span asp-validation-for="ProdcutCode" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="TagIds">Tags</label>
+                        <select asp-for="TagIds">
+                            @foreach (var tag in Model.Tags)
+                            {
+                                <option value="@tag.Id">@tag.Name</option>
+                            }
+                        </select>
+                        <span asp-validation-for="TagIds" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Description">Description</label>
+                        <input asp-for=Description class="form-control" placeholder="Description">
+                        <span asp-validation-for="Description" class="text-danger"></span>
+                    </div>
+
+                    <button type="submit" class="btn btn-primary me-2">Submit</button>
+                    <button class="btn btn-light">Cancel</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section DeleteButton {
+    <script>
+        var button = document.querySelectorAll(".delete-button")
+
+        for (let i = 0; i < button.length; i++) {
+            button[i].addEventListener("click", function () {
+                button[i].parentElement.remove()
+            })
+        }
+    </script>
+}

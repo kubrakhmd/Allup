@@ -1,0 +1,113 @@
+﻿@using Allup.ViewModels
+ @model List<BasketItemVM>
+@{
+    decimal total = 0;
+}
+<!--====== Breadcrumb Part Start ======-->
+
+<div class="breadcrumb-area">
+    <div class="container-fluid custom-container">
+        <nav aria-label="breadcrumb">
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a asp-controller="home" asp-action="index">Home</a></li>
+                <li class="breadcrumb-item active">Cart</li>
+            </ol>
+        </nav>
+    </div> <!-- container -->
+</div>
+
+<!--====== Breadcrumb Part Ends ======-->
+<!--====== Cart Part Start ======-->
+
+<section class="cart-page pt-10">
+    <div class="container-fluid custom-container">
+        <div class="row">
+            <div class="col-xl-8">
+                <div class="shopping-cart mt-25">
+                    <h4 class="allup-title">Shopping Cart</h4>
+
+                    <div class="shopping-cart-table table-responsive">
+                        <table class="table">
+                            <thead>
+                                <tr>
+                                    <th class="image">Image</th>
+                                    <th class="product">Product</th>
+                                    <th class="price">Price</th>
+                                    <th class="quantity">Quantity</th>
+                                    <th class="total">Total</th>
+                                    <th class="delete">Delete</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach (var item in Model)
+                                {
+                                    total += item.SubTotal;
+                                    <tr>
+                                        <td>
+                                            <div class="product-image">
+                                                <img src="assets/images/@item.Image" alt="cart">
+                                            </div>
+                                        </td>
+                                        <td>
+                                            <div class="product-title">
+                                                <h4 class="title"><a asp-controller="shop" asp-action="detail">@item.Name</a></h4>
+                                            </div>
+                                        </td>
+                                        <td>
+                                            <div class="product-price">
+                                                <span class="price">€@item.Price</span>
+                                            </div>
+                                        </td>
+                                      
+                                        <td>
+                                            <div class="product-total">
+                                                <span class="total-amount">€@item.SubTotal</span>
+                                            </div>
+                                        </td>
+                                        <td>
+                                            <div class="product-delete">
+                                                <a asp-controller="basket" asp-action="delete" asp-route-id="@item.ProductId"><i class="fal fa-trash-alt"></i></a>
+                                            </div>
+                                        </td>
+                                    </tr>
+                                }
+
+                            </tbody>
+                        </table>
+                    </div>
+
+                </div>
+            </div>
+            <div class="col-xl-4">
+                <div class="row">
+                    <div class="col-xl-12 col-md-6">
+                        <div class="cart-coupon mt-30">
+                            <h5 class="title">Discount Coupon Code</h5>
+                            <form action="#">
+                                <div class="single-form coupon-form d-flex flex-wrap">
+                                    <input type="text" placeholder="Coupon Code">
+                                    <button class="main-btn">Apply Coupon</button>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                    <div class="col-xl-12 col-md-6">
+                        <div class="cart-total mt-30">
+                            <div class="sub-total">
+                                <div class="single-total">
+                                    <span class="cart-value">Subtotal</span>
+                                    <span class="cart-amount">€@total</span>
+                                </div>
+                            </div>
+                            <div class="cart-total-btn text-right">
+                                <a class="main-btn" asp-controller="basket" asp-action="checkout">Proceed to Checkout</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!--====== Cart Part Ends ======-->}
